@@ -1,2 +1,2 @@
-# catapult-maze-2-Akash
-Whitehat Jr Class Project
+# p5.play-boilerplate
+Boiler plate for p5.play
