@@ -14,6 +14,7 @@ class Shooter{
         this.body.bodyA = null;  
     }
     attach(body){
+        Matter.Body.setPosition(body,{x:100,y:300});
         this.body.bodyA = body;
     }
     display(){
